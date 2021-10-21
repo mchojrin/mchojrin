@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I'm Mauro Chojrin, I'm a PHP consultant and trainer.
+
+I help PHP developers access more demanding markets and clients.
+
+You can learn more about me by visiting https://leewayweb.com, following me on [Twitter](https://twitter.com/mchojrin), on [LinkedIn](https://www.linkedin.com/in/maurochojrin) or watching some of my videos on [YouTube](https://www.youtube.com/channel/UCsNe59kuUuLrgAbDv8swDMQ)
 <!--
 **mchojrin/mchojrin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
